@@ -4,5 +4,21 @@
   "artist": "Rank Fittlemore",
   "author": "Bravado Jones",
   "cover": "https://i.imgur.com/9mOP76H.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1692654443",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=13Y1bzKwA798r-76t7C2FtatN7uvPKgPk",
+          "https://drive.google.com/uc?export=view&id=1YWr2Y1YbxiQMAGOVNKhQnSUqczX5MNPQ",
+          "https://drive.google.com/uc?export=view&id=1gN1gvt5IvpyM8hHVAN8_8ialRkcxez0N",
+          "https://drive.google.com/uc?export=view&id=1was5EcwSrzWmuuZuLofWMN2wFuDQaJSE",
+          "https://drive.google.com/uc?export=view&id=12zbBCTtU8vo0c5lX2kvADJflxgXP-X8o",
+          "https://drive.google.com/uc?export=view&id=1Is2lUVx8Xao3oZ8d8Sx5sBy6DifmuiOU"
+        ]
+      }
+    }
+  }
 }
